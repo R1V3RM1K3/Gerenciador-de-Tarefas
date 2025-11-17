@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas em Linha de Comando
+# Gerenciador de Tarefas
 
 Este é um projeto em Python para gerenciamento de tarefas pessoais, desenvolvido conforme as especificações da Atividade de Aplicação.
 
